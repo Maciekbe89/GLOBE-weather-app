@@ -1,6 +1,6 @@
 {
-  "homepage": "https://maciekbe89.github.io/Weather-app/",
-  "name": "weather-app",
+  "homepage": "https://maciekbe89.github.io/GLOBE-weather-app/",
+  "name": "globe-weather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
