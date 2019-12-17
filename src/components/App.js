@@ -34,7 +34,6 @@ class App extends Component {
       })
       .then(response => response.json())
       .then(data => {
-        console.log(data.geobytescity);
         this.setState({
           value: data.geobytescity
         });
