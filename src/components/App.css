@@ -135,6 +135,7 @@ span {
   flex-wrap: wrap;
   border-right: 1px solid #ccc;
   justify-content: center;
+  align-content: space-between;
 }
 
 .size:last-child {
